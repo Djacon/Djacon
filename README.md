@@ -26,6 +26,6 @@ I am a Machine Learning Engineer. Teaching, researching, deploying - you name it
 
 ### 🏆 My stats
 
-![Djacon GitHub Stats](https://github-readme-stats.vercel.app/api?username=djacon&theme=tokyonight&show_icons=true)
+![Djacon GitHub Stats](https://github-readme-stats.vercel.app/api?username=djacon&show_icons=true)
 
 ![Codewars](https://www.codewars.com/users/Djacon/badges/large)
