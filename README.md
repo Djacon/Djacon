@@ -1,4 +1,4 @@
-![future](https://github.com/Djacon/Djacon/assets/62030101/e9f99151-d361-4ec2-bce9-535f5cb3f8e6)
+![future](https://github.com/Djacon/Djacon/assets/62030101/8759c699-a12c-439b-b17f-d18884dd4c45)
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
