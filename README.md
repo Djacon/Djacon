@@ -1,5 +1,5 @@
 ![future](https://github.com/Djacon/Djacon/assets/62030101/8759c699-a12c-439b-b17f-d18884dd4c45)
-
+<!-- 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 I am a Machine Learning Engineer. Currently learning new technologies and applying them to new projects.
@@ -20,7 +20,6 @@ I am a Machine Learning Engineer. Currently learning new technologies and applyi
 
 ## 📫 How to reach me
 
-<!-- - Personal Website:  http://tornikeo.github.io/ -->
 - Telegram: https://t.me/Djacon
 - GitHub: https://github.com/Djacon
 - Kaggle: https://www.kaggle.com/Djacon
@@ -50,3 +49,4 @@ I am a Machine Learning Engineer. Currently learning new technologies and applyi
 ![Djacon GitHub Stats](https://github-readme-stats.vercel.app/api?username=djacon&show_icons=true&theme=vision-friendly-dark)
 
 ![Codewars](https://www.codewars.com/users/Djacon/badges/large)
+ -->
