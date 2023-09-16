@@ -1,11 +1,11 @@
-![future](https://github.com/Djacon/Djacon/assets/62030101/8759c699-a12c-439b-b17f-d18884dd4c45)
+<!-- ![future](https://github.com/Djacon/Djacon/assets/62030101/8759c699-a12c-439b-b17f-d18884dd4c45) -->
 
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-I am a Machine Learning Engineer. Currently learning new technologies and applying them to new projects.
+I'm a Machine Learning Engineer, focused on learning new technologies and applying them to new projects
 
 
-## 🎓 Expertise
+### 🎓 Expertise
 
 - ML Frameworks: PyTorch, Tensorflow
 - CV Libraries: Scikit-image
@@ -13,16 +13,9 @@ I am a Machine Learning Engineer. Currently learning new technologies and applyi
 - Dev tools: Docker, Git, Bash
 - Linear Algebra, Statistics, Calculus
 
-## 👯 Looking to collaborate on
+### 📫 How to reach me
 
-- AI-based opensource projects (including libraries)
-- Cool generative AI projects (image and text)
-
-## 📫 How to reach me
-
-- Telegram: https://t.me/Djacon
-- GitHub: https://github.com/Djacon
-- Kaggle: https://www.kaggle.com/Djacon
+- [Telegram](https://t.me/Djacon) / [Kaggle](https://kaggle.com/Djacon) / [Github](https://github.com/Djacon)
 
 ### 🛠 &nbsp;Languages and Tools
 
