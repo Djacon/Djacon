@@ -48,5 +48,3 @@ I am a Machine Learning Engineer. Currently learning new technologies and applyi
 
 ![Djacon GitHub Stats](https://github-readme-stats.vercel.app/api?username=djacon&show_icons=true&theme=vision-friendly-dark)
 
-![Codewars](https://www.codewars.com/users/Djacon/badges/large)
-
