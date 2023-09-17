@@ -1,4 +1,4 @@
-<img src="https://github.com/Djacon/Djacon/assets/62030101/8759c699-a12c-439b-b17f-d18884dd4c45" alt="future"/>
+<!-- <img src="https://github.com/Djacon/Djacon/assets/62030101/8759c699-a12c-439b-b17f-d18884dd4c45" alt="future"/> -->
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Daniel</h1>
 <h3 align="center">Machine Learning Engineer, focused on learning new technologies and applying them to new projects</h3>
@@ -28,7 +28,7 @@
     <a href="https://t.me/djacon" target="_blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="30" height="30"/>
     </a>
-    <a href="https://discord.gg/417714567632781313" target="_blank">
+    <a href="https://discordapp.com/users/417714567632781313/" target="_blank">
         <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png" alt="417714567632781313" height="50" width=50"/>
     </a>
         <a href="https://kaggle.com/djacon" target="blank">
