@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Daniel</h1>
 <h3 align="center">Machine Learning Engineer, focused on learning new technologies and applying them to new projects</h3>
 
-### 🎓 Skills
+### 🛠️ Skills
 - Languages: Python, SQL, C++, Go
 - ML stack: PyTorch, Transformers, W&B, Optuna, Sklearn, Catboost/XGBoost/LightGBM
 - BigData: Hadoop, Hive, PySpark, Pandas/Polars
