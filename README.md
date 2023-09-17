@@ -1,43 +1,41 @@
-<!-- ![future](https://github.com/Djacon/Djacon/assets/62030101/8759c699-a12c-439b-b17f-d18884dd4c45) -->
+<img src="https://github.com/Djacon/Djacon/assets/62030101/8759c699-a12c-439b-b17f-d18884dd4c45" alt="future"/>
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Daniel</h1>
+<h3 align="center">Machine Learning Engineer, focused on learning new technologies and applying them to new projects</h3>
 
-I'm a Machine Learning Engineer, focused on learning new technologies and applying them to new projects
-
-
-### 🎓 Expertise
-
-- ML Frameworks: PyTorch, Tensorflow
-- CV Libraries: Scikit-image
-- Stats: Scikit Learn, XGBoost
-- Dev tools: Docker, Git, Bash
+### 🎓 Skills
+- Languages: Python, SQL, C++, Go
+- ML stack: PyTorch, Transformers, W&B, Optuna, Sklearn, Catboost/XGBoost/LightGBM
+- BigData: Hadoop, Hive, PySpark, Pandas/Polars
+- Web stack: Flask, Django, Fastapi
+- DevOps: Docker, Git, Linux
 - Linear Algebra, Statistics, Calculus
 
-### 📫 How to reach me
+### 🏆 Competition Background
+- Finalist [NTO BD&ML 2021-2022](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
+- Finalist [Yandex ML Cup RecSys](https://yandex.ru/cup/ml/) | [Solution](https://github.com/Djacon/Yandex-ML-Cup-2022-25th-Place-Solution)
 
-- [Telegram](https://t.me/Djacon) / [Kaggle](https://kaggle.com/Djacon) / [Github](https://github.com/Djacon)
+### 👨‍💻 Work experience
+- Freelancer (September 2022 - Present Day)
 
-### 🛠 &nbsp;Languages and Tools
+### 👾 Hobbies
+- 🤖 AI
+- 🏋️‍♂️ Gym
+- 🤼‍♂️ Wrestling
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+### Contacts
+<p align="left">
+    <a href="https://t.me/djacon" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="30" height="30"/>
+    </a>
+    <a href="https://discord.gg/417714567632781313" target="_blank">
+        <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png" alt="417714567632781313" height="50" width=50"/>
+    </a>
+        <a href="https://kaggle.com/djacon" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="djacon" height="30" width="40" />
+    </a>
 </p>
 
-
-### 🏆 My stats
-
-![Djacon GitHub Stats](https://github-readme-stats.vercel.app/api?username=djacon&show_icons=true&theme=vision-friendly-dark)
-
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=djacon&label=Profile%20views&color=0e75b6&style=flat" alt="djacon"/>
+</p>
