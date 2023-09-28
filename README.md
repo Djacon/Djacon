@@ -1,7 +1,7 @@
 <!-- <img src="https://github.com/Djacon/Djacon/assets/62030101/8759c699-a12c-439b-b17f-d18884dd4c45" alt="future"/> -->
 
-<!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Daniel</h1> -->
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/Djacon">Daniel</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Machine Learning Engineer, focused on learning new technologies and applying them to new projects</h3>
 
 ### 🛠️ Skills
