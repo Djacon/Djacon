@@ -22,7 +22,7 @@
 ### 👾 Hobbies
 - 🤖 AI
 - 🏋️‍♂️ Gym
-- 🤼‍♂️ Wrestling
+- 🗿 Memes
 
 ### Contacts
 <p align="left">
