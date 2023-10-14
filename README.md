@@ -15,7 +15,7 @@
 - Finalist [NTO BD&ML 2021-2022](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/) | [Diploma](https://diploma.kruzhok.org/s3/talent-diploma-service/6159066c-e816-49b7-8e49-7f6966352e81/496711.pdf)
 - Finalist [Yandex ML Cup RecSys](https://yandex.ru/cup/ml/) | [Solution](https://github.com/Djacon/Yandex-ML-Cup-2022-25th-Place-Solution)
 
-### 👨‍💻 Work experience
+### 👨‍💻 Work Experience
 - Freelancer (September 2022 - Present Day)
 
 ### 👾 Hobbies
