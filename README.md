@@ -1,5 +1,3 @@
-<!-- <img src="https://github.com/Djacon/Djacon/assets/62030101/8759c699-a12c-439b-b17f-d18884dd4c45" alt="future"/> -->
-
 <h1 align="center">Hi, I'm <a href="https://github.com/Djacon">Daniel</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
 width="32" height="32"/></h1>
 <h3 align="center">Machine Learning Engineer, focused on learning new technologies and applying them to new projects</h3>
@@ -38,6 +36,6 @@ width="32" height="32"/></h1>
     </a>
 </p>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=djacon&label=Profile%20views&color=0e75b6&style=flat" alt="djacon"/>
-</p>
+---
+
+[![](https://visitcount.itsvg.in/api?id=Djacon&label=Profile%20Views&color=6&icon=5&pretty=true)]([https://visitcount.itsvg.in](https://visitcount.itsvg.in/api?id=Djacon&label=Profile%20Views&color=6&icon=5&pretty=true)https://visitcount.itsvg.in/api?id=Djacon&label=Profile%20Views&color=6&icon=5&pretty=true)
