@@ -38,4 +38,4 @@ width="32" height="32"/></h1>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Djacon&label=Profile%20Views&color=6&icon=5&pretty=true)]([https://visitcount.itsvg.in](https://visitcount.itsvg.in/api?id=Djacon&label=Profile%20Views&color=6&icon=5&pretty=true)https://visitcount.itsvg.in/api?id=Djacon&label=Profile%20Views&color=6&icon=5&pretty=true)
+[![](https://visitcount.itsvg.in/api?id=Djacon&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in/)
