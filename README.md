@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/Djacon">Daniel</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
 width="32" height="32"/></h1>
-<div align="center">Machine Learning Engineer | Young technology enthusiast with a burning curiosity for the newest innovations</div>
+<h3 align="center">Machine Learning Engineer | Young Technology Enthusiast | BioTech Student</h3>
 
 ### 🛠️ Skills
 - Languages: Python, SQL, C++, Go
