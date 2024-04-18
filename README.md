@@ -3,12 +3,12 @@ width="32" height="32"/></h1>
 <h3 align="center">Machine Learning Engineer | Young Technology Enthusiast | BioTech Student</h3>
 
 ### 🛠️ Skills
-- Languages: Python, SQL, C++, Go
-- ML stack: PyTorch, Transformers, W&B, Optuna, Sklearn, Catboost/XGBoost/LightGBM
+- ML Fields: Classic ML, NLP, RecSys, LLM
+- Languages: Python, SQL, C/C++, Go
+- ML stack: PyTorch, W&B, Optuna, Sklearn, Catboost/XGBoost/LightGBM
 - BigData: Hadoop, Hive, PySpark, Pandas/Polars
-- Web stack: Flask, Django, Fastapi
+- Web stack: FastAPI, Streamlit, Flask, Django
 - DevOps: Docker, Git, Linux
-- Linear Algebra, Statistics, Calculus
 
 ### 🏆 Competition Background
 - Finalist [NTO BD&ML 2021-2022](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/) | [Diploma](https://diploma.kruzhok.org/s3/talent-diploma-service/6159066c-e816-49b7-8e49-7f6966352e81/496711.pdf)
