@@ -15,9 +15,6 @@ width="32" height="32"/></h1>
 - Finalist [Yandex ML Cup 2022](https://yandex.ru/cup/ml/) | [Solution](https://github.com/Djacon/Yandex-ML-Cup-2022-25th-Place-Solution)
 - Finalist [Yandex ML Cup 2023](https://yandex.ru/cup/ml/) | [Solution](https://github.com/Djacon/yandex-ml-cup-2023)
 
-### 👨‍💻 Work Experience
-- Freelancer (September 2022 - Present Day)
-
 ### 👾 Hobbies
 - 🤖 AI
 - 🏋️‍♂️ Gym
