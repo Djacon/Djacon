@@ -3,10 +3,10 @@ width="32" height="32"/></h1>
 <h3 align="center">Machine Learning Engineer | Young Technology Enthusiast | BioTech Student</h3>
 
 ### 🛠️ Skills
-- ML Fields: Classic ML, NLP, RecSys, LLM
-- Languages: Python, SQL, C/C++, Go
-- ML stack: PyTorch, W&B, Optuna, Sklearn, Catboost/XGBoost/LightGBM
-- BigData: Hadoop, Hive, PySpark, Pandas/Polars
+- ML Fields: Classic ML, NLP, LLM, RAG
+- Languages: Python, SQL, C/C++
+- ML stack: PyTorch, LangChain, LlamaIndex, Optuna, Sklearn, Catboost/XGBoost/LightGBM, vLLM
+- BigData: Pandas, PySpark, Pandas/Polars
 - Web stack: FastAPI, Streamlit, Flask, Django
 - DevOps: Docker, Git, Linux
 
