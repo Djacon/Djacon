@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/Djacon">Daniel</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
 width="32" height="32"/></h1>
-<h3 align="center">Machine Learning Engineer | Young Technology Enthusiast | BioTech Student</h3>
+<h3 align="center">Machine Learning Engineer | Data Scientist | Young Technology Enthusiast</h3>
 
 ### 🛠️ Skills
 - ML Fields: Classic ML, NLP, LLM, RAG
